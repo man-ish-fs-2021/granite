@@ -1,4 +1,4 @@
-# VScode respects this. More info at editorconfig.org
+# VScode respects this. More info at editorconfig.org   
 root = true
 
 [*]
